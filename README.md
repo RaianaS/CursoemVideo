@@ -7,7 +7,7 @@ Este repositório reúne projetos e desafios desenvolvidos durante os cursos da 
 </p>
 
 
-<<h2 align="center">💡 Objetivo do Projeto</h2>
+<h2 align="center">💡 Objetivo do Projeto</h2>
 
 <p align="center">Este repositório foi criado com o propósito de:</p>
 
@@ -45,5 +45,8 @@ Este repositório reúne projetos e desafios desenvolvidos durante os cursos da 
 
 <p align="center">
   <a href="https://github.com/RaianaS/Dev-Alura" target="_blank">Explore o Projeto Completo</a>
+</p>
+<p align="center">
+  <a href="https://www.cursoemvideo.com/" target="_blank">Explore o Site do Curso em Vídeo</a>
 </p>
 
