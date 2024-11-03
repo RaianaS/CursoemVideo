@@ -44,7 +44,7 @@ Este repositório reúne projetos e desafios desenvolvidos durante os cursos da 
 <p align="center">Explore o conteúdo e acompanhe a evolução contínua deste repositório dedicado ao aprendizado em desenvolvimento web e análise de dados por meio do Curso em Vídeo!</p>
 
 <p align="center">
-  <a href="https://github.com/RaianaS/Dev-Alura" target="_blank">Explore o Projeto Completo</a>
+  <a href="https://github.com/RaianaS/CursoemVideo.git" target="_blank">Explore o Projeto Completo</a>
 </p>
 <p align="center">
   <a href="https://www.cursoemvideo.com/" target="_blank">Explore o Site do Curso em Vídeo</a>
