@@ -12,7 +12,16 @@
     <form action="cadastro.php" method="get" autocomplete="on">
         <p>
             <label for="icor"> Cor: </label>
-            <input type="color" name="cor" id="icor">
+            <input type="color" name="cor" id="icor" value="#00ff00">
+        </p>
+        <p>
+            <label for="inivel"> Nível de Sastifação:</label>
+            <input type="range" name="nivel" id="inivel" min="0" max="100" value="2">
+        </p>
+        <!--Quando coloca foto tem que usar o method ="post"-->
+        <p>
+            <label for="ifoto">Foto de perfil:</label>
+            <input type="file" name="foto" id="ifoto">
         </p>
         <p>
             <input type="submit" value="Enviar">
